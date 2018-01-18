@@ -1,0 +1,31 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "creating liri",
+  "main": "index.js",
+  "scripts": {
+    "test": "none specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Townsend2014/liri-node-app.git"
+  },
+  "keywords": [
+    "liri",
+    "node"
+  ],
+  "author": "Saymay T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Townsend2014/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Townsend2014/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "omdbapi": "^2.0.1",
+    "request": "^2.83.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
